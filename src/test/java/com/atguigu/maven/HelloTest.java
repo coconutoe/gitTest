@@ -12,6 +12,7 @@ public class HelloTest {
 	
 	@Test
 	public void testHello2() {
+		System.out.println(11);
 		System.out.println("hello, xiaohuihui");
 	}
 }
